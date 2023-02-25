@@ -1,5 +1,5 @@
 # IOT-Projects
-All the iot projects I made as a part of a hands-on workshop conducted by my college in 3rd semester, Sept 2022.
+All the iot projects we made as a part of a hands-on workshop conducted by my college in 3rd semester, Sept 2022.
 
 
 #### Blinking an LED Bulb
